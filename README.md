@@ -1,7 +1,7 @@
 # Hey there 👋
 
 <p align="center">
-  🙋 I'm a passionate Software Developer specializing in both frontend and backend technologies. With a strong focus on problem-solving, I strive to create innovative solutions and actively contribute to open-source projects to foster a more equitable tech community.
+  🙋 I'm a passionate <strong>Software Developer</strong> specializing in both frontend and backend technologies. With a strong focus on problem-solving, I strive to create innovative solutions and actively contribute to open-source projects to foster a more equitable tech community.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 What I’m Learning
-Currently diving deeper into the **MERN stack** and **UI/UX design** to build user-friendly applications that make a difference.
+Currently diving deeper into the **MERN stack** to build user-friendly applications that make a difference.
 
 ### 🛠️ Technologies & Tools
 - **Languages:** JavaScript, TypeScript, Java, PHP
