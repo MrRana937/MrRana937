@@ -39,7 +39,7 @@
 -   **Backend Development**: Designing and implementing powerful server-side logic and RESTful APIs using **Node.js** and **Express.js**.
 -   **Database Management**: Efficiently storing and retrieving data with **MongoDB**, optimizing for performance and scalability.
 -   **Problem Solving**: Continuously honing my algorithmic and data structure skills, demonstrated by my **1700+ LeetCode rating**.
--   **System Design (Basics)**: Understanding and applying fundamental principles for building resilient and efficient systems.
+-   **System Design**: Understanding and applying fundamental principles for building resilient and efficient systems.
 
 ---
 
